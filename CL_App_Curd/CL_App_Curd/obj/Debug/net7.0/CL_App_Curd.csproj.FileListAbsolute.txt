@@ -1,0 +1,14 @@
+D:\C-DAC\DotNet\ADO_DotNet\Day4\CL_App_Curd\CL_App_Curd\bin\Debug\net7.0\CL_App_Curd.exe
+D:\C-DAC\DotNet\ADO_DotNet\Day4\CL_App_Curd\CL_App_Curd\bin\Debug\net7.0\CL_App_Curd.deps.json
+D:\C-DAC\DotNet\ADO_DotNet\Day4\CL_App_Curd\CL_App_Curd\bin\Debug\net7.0\CL_App_Curd.runtimeconfig.json
+D:\C-DAC\DotNet\ADO_DotNet\Day4\CL_App_Curd\CL_App_Curd\bin\Debug\net7.0\CL_App_Curd.dll
+D:\C-DAC\DotNet\ADO_DotNet\Day4\CL_App_Curd\CL_App_Curd\bin\Debug\net7.0\CL_App_Curd.pdb
+D:\C-DAC\DotNet\ADO_DotNet\Day4\CL_App_Curd\CL_App_Curd\obj\Debug\net7.0\CL_App_Curd.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-DAC\DotNet\ADO_DotNet\Day4\CL_App_Curd\CL_App_Curd\obj\Debug\net7.0\CL_App_Curd.AssemblyInfoInputs.cache
+D:\C-DAC\DotNet\ADO_DotNet\Day4\CL_App_Curd\CL_App_Curd\obj\Debug\net7.0\CL_App_Curd.AssemblyInfo.cs
+D:\C-DAC\DotNet\ADO_DotNet\Day4\CL_App_Curd\CL_App_Curd\obj\Debug\net7.0\CL_App_Curd.csproj.CoreCompileInputs.cache
+D:\C-DAC\DotNet\ADO_DotNet\Day4\CL_App_Curd\CL_App_Curd\obj\Debug\net7.0\CL_App_Curd.dll
+D:\C-DAC\DotNet\ADO_DotNet\Day4\CL_App_Curd\CL_App_Curd\obj\Debug\net7.0\refint\CL_App_Curd.dll
+D:\C-DAC\DotNet\ADO_DotNet\Day4\CL_App_Curd\CL_App_Curd\obj\Debug\net7.0\CL_App_Curd.pdb
+D:\C-DAC\DotNet\ADO_DotNet\Day4\CL_App_Curd\CL_App_Curd\obj\Debug\net7.0\CL_App_Curd.genruntimeconfig.cache
+D:\C-DAC\DotNet\ADO_DotNet\Day4\CL_App_Curd\CL_App_Curd\obj\Debug\net7.0\ref\CL_App_Curd.dll
